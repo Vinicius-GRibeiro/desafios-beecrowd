@@ -1,5 +1,5 @@
 # Desafios Becrowd
-### Problemas resolvidos: 42
+### Problemas resolvidos: 59
 
 Repositório destinado às minhas soluções para desafios da plataforma Beecrowd.
 
